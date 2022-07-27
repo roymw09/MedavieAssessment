@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bca0f8c-8c13-4b9e-8d53-6031760b98ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FanTest.java" afterDir="false" />
+    <list default="true" id="9bca0f8c-8c13-4b9e-8d53-6031760b98ca" name="Changes" comment="Created Fan class &amp; FanTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MedavieAssessment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MedavieAssessment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +77,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658925415920</updated>
-      <workItem from="1658925417171" duration="2397000" />
+      <workItem from="1658925417171" duration="2980000" />
     </task>
+    <task id="LOCAL-00001" summary="Created Fan class &amp; FanTest">
+      <created>1658928487998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658928487998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Fan class &amp; FanTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Fan class &amp; FanTest" />
   </component>
 </project>
